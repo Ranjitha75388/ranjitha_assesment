@@ -1,1 +1,9 @@
-hello .today is sunday
+echo "my name is:"
+echo "my company name :"
+echo "my id number is:"
+
+
+
+
+
+
