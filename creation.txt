@@ -1,1 +1,3 @@
-hello .today is sunday
+hello .today is sunda
+
+echo my name is ranjitha
